@@ -1,0 +1,19 @@
+{
+  "name": "@nguyenphutrong/array-combination",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenphutrong/array-combination.git"
+  },
+  "author": "Trong Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenphutrong/array-combination/issues"
+  },
+  "homepage": "https://github.com/nguyenphutrong/array-combination#readme"
+}
