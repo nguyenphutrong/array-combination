@@ -7,7 +7,7 @@ npm i @nguyenphutrong/array-combination
 
 ## Usage
 ```js
-const combination = require('arr-combination')
+import { arrayCombination } from '@nguyenphutrong/array-combination';
 
 const options = [
     ['a', 'b', 'c'],
@@ -15,7 +15,7 @@ const options = [
     ['1', '2', '3', '4', '5']
 ];
 
-const variants = combination(options);
+const variants = arrayCombination(options);
 
 console.log(variants);
 ```
