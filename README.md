@@ -11,8 +11,7 @@ import { arrayCombination } from '@nguyenphutrong/array-combination';
 
 const options = [
     ['a', 'b', 'c'],
-    ['x', 'y', 'z'],
-    ['1', '2', '3', '4', '5']
+    ['1', '2', '3', '4']
 ];
 
 const variants = arrayCombination(options);
